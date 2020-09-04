@@ -1,6 +1,8 @@
-*This text will be italic*<br>
-_This will also be italic_<br>
-**This text will be bold**<br>
-__This will also be bold__<p>
+I am currently working on a few BBS door games. These are written in C, using the OpenDoors door kit.
 
-_You **can** combine them_<br>
+Some of the projects include:
+
+- **Crazy Eights Slot Machine**
+- **IdleBallz**
+
+...and a couple other still in development. :smirk: 
