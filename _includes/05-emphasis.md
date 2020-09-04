@@ -2,7 +2,7 @@ I am currently working on a few BBS door games. These are written in C, using th
 
 Some of the projects include:
 
-- **Crazy Eights Slot Machine**
-- **IdleBallz**
+- [**Crazy Eights Slot Machine**](https://github.com/DRPanther/Crazy_Eights_Slots)
+- [**IdleBallz**](https://github.com/DRPanther/IdleBallz)
 
 ...and a couple other still in development. :smirk: 
