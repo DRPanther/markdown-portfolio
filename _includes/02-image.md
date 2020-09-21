@@ -1,1 +1,1 @@
-![Image of Black Panther](https://thenypost.files.wordpress.com/2018/10/black-panther-scotland.jpg?quality=90&strip=all&w=1200)
+![Image of Black Panther](https://drpanther.github.io/markdown-portfolio/black_panther_4k_5-3840x2160.jpg)
